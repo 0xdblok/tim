@@ -22,7 +22,7 @@ export default function Raydium() {
       </div>
       <div className="pt-6 flex justify-center">
         <a
-          href="#"
+          href="https://www.pump.fun/2NkykHcdHdaXeRrSPcKWxrGGUpi1oC3gX8zQ1nTXy2L1"
           className="px-6  py-3 text-xl font-semibold rounded-lg bg-[#E60BD9]">
           Contract Adress:{" "}
           <span> 2NkykHcdHdaXeRrSPcKWxrGGUpi1oC3gX8zQ1nTXy2L1</span>
