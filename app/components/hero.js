@@ -18,7 +18,7 @@ export default function Hero() {
           </p>
           <div className="flex font-sans flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
             <a
-              href="#"
+              href="https://www.pump.fun/2NkykHcdHdaXeRrSPcKWxrGGUpi1oC3gX8zQ1nTXy2L1"
               className="px-6 py-3 text-xl font-semibold rounded-lg bg-[#E60BD9]">
               Buy Now
             </a>

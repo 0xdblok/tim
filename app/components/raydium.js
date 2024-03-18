@@ -24,7 +24,8 @@ export default function Raydium() {
         <a
           href="#"
           className="px-6  py-3 text-xl font-semibold rounded-lg bg-[#E60BD9]">
-          Contract Adress: <span> 0xersouifgehorughdero</span>
+          Contract Adress:{" "}
+          <span> 2NkykHcdHdaXeRrSPcKWxrGGUpi1oC3gX8zQ1nTXy2L1</span>
         </a>
       </div>
     </div>
